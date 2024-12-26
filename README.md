@@ -21,7 +21,6 @@ This repository is for learning react native from basic to advance. This reposit
 - Deployment
 
 ### Projects
-
 - A simple todo app
 - A google meet app
 
